@@ -48,7 +48,7 @@ features                                  :
     fontawesome_icon_name                 : calendar-check
 
   - title                                 : Do quiz 
-    description                           : Test your knowledge or just to kill time with friend while waiting on theater
+    description                           : Test your knowledge or just to kill time with friend while waiting at theater
     fontawesome_icon_name                 : magic
 
   - title                                 : Using 3rd party TMDb service.
@@ -58,10 +58,6 @@ features                                  :
   - title                                 : #Feature List
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : #star
-
-  - title                                 : Smart App Banner
-    description                           : 
-    fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Privacy & Term of service
     description                           : <a href="https://iop883684.github.io/moviebox/term">Privacy</a><br><a href="https://iop883684.github.io/moviebox/privacy/">Term of service</a>
