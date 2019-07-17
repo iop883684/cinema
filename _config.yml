@@ -59,9 +59,9 @@ features                                  :
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : #star
 
-  - title                                 : #Smart App Banner
-    description                           : #Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : #arrow-alt-circle-down
+  - title                                 : Smart App Banner
+    description                           : <a href="http://genk.vn">link text</a>
+    fontawesome_icon_name                 : arrow-alt-circle-down
 
   - title                                 : Privacy, Term
     description                           : https://iop883684.github.io/moviebox/privacy/<br>https://iop883684.github.io/moviebox/term
