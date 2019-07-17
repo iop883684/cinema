@@ -63,14 +63,9 @@ features                                  :
     description                           : #Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : #arrow-alt-circle-down
 
-  - title                                 : Privacy
-    description                           : https://iop883684.github.io/moviebox/privacy/
+  - title                                 : Privacy, Term
+    description                           : https://iop883684.github.io/moviebox/privacy/<br>https://iop883684.github.io/moviebox/term
     fontawesome_icon_name                 : user-shield
-
-  - title                                 : Term
-    description                           : https://iop883684.github.io/moviebox/term
-    fontawesome_icon_name                 : info-circle
-
 
 
 
