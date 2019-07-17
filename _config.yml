@@ -22,7 +22,7 @@ enable_smart_app_banner                   : true                                
 # Information About Yourself
 your_name                                 : Le Do                                
 your_link                                 : https://m.me/416305462459391                    
-your_city                                 : Ha Noi                                
+your_city                                 : HN                                
 email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
@@ -37,18 +37,18 @@ features                                  :
 
   - title                                 : Quickly find theater around
     description                           : Get diection for near theater around support add theater to plan
-    fontawesome_icon_name                 : location
+    fontawesome_icon_name                 : location-arrow
     
   - title                                 : Now Playing, Upcoming movies
     description                           : Discover what movie on theater right now
-    fontawesome_icon_name                 : mobile
+    fontawesome_icon_name                 : film
 
-  - title                                 : Make plan to watch movie with your friend
+  - title                                 : Make plan
     description                           : Creat plan with specific detail, and easy to share with friend
-    fontawesome_icon_name                 : star
+    fontawesome_icon_name                 : calendar-check
 
-  - title                                 : Do quiz with friend while waiting on theater
-    description                           : Test your knowledge or just to kill time
+  - title                                 : Do quiz 
+    description                           : Test your knowledge or just to kill time with friend while waiting on theater
     fontawesome_icon_name                 : magic
 
   - title                                 : Using 3rd party TMDb service.
@@ -63,17 +63,14 @@ features                                  :
     description                           : #Display a smart app banner on iOS devices.
     fontawesome_icon_name                 : #arrow-alt-circle-down
 
-  - title                                 : #Social Links
-    description                           : #Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #link
+  - title                                 : Privacy
+    description                           : https://iop883684.github.io/moviebox/privacy/
+    fontawesome_icon_name                 : user-shield
 
-  - title                                 : #FontAwesome Support
-    description                           : #Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : #info-circle
+  - title                                 : Term
+    description                           : https://iop883684.github.io/moviebox/term
+    fontawesome_icon_name                 : info-circle
 
-  - title                                 : # New Feature Title
-    description                           : # New Feature Description
-    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
 
 
 
