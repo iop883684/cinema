@@ -60,11 +60,11 @@ features                                  :
     fontawesome_icon_name                 : #star
 
   - title                                 : Smart App Banner
-    description                           : <a href="http://genk.vn">link text</a>
+    description                           : 
     fontawesome_icon_name                 : arrow-alt-circle-down
 
-  - title                                 : Privacy, Term
-    description                           : https://iop883684.github.io/moviebox/privacy/<br>https://iop883684.github.io/moviebox/term
+  - title                                 : Privacy & Term of service
+    description                           : <a href="https://iop883684.github.io/moviebox/term">Privacy</a><br><a href="https://iop883684.github.io/moviebox/privacy/">Term of service</a>
     fontawesome_icon_name                 : user-shield
 
 
