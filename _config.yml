@@ -21,9 +21,9 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Le Do                                
-your_link                                 : https://m.me/416305462459391                    
-your_city                                 : HN                                
-email_address                             : movieplannersupport@gmail.com
+your_link                                 : http://iop883684.github.io/                    
+your_city                                 : HaNoi                                
+email_address                             : 
 facebook_username                         :                                           
 instagram_username                        : 
 twitter_username                          : 
@@ -38,10 +38,6 @@ features                                  :
   - title                                 : Quickly find theater around
     description                           : Get diection for near theater around support add theater to plan
     fontawesome_icon_name                 : location-arrow
-    
-  - title                                 : Now Playing, Upcoming movies
-    description                           : Discover what movie on theater right now
-    fontawesome_icon_name                 : film
 
   - title                                 : Make plan
     description                           : Creat plan with specific detail, and easy to share with friend
@@ -58,6 +54,10 @@ features                                  :
   - title                                 : #Feature List
     description                           : #Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : #star
+
+  - title                                 : Contact
+    description                           : <a href="https://m.me/416305462459391">Messenger</a><br>Email <a href="mailto:appfeedback118@yandex.com">appfeedback118@yandex.com</a><br>Address 3 Lane 68 Cau Giay Street, Quan Hoa Ward, Cau Giay District, Hanoi.
+    fontawesome_icon_name                 : address-card
 
   - title                                 : Privacy & Term of service
     description                           : <a href="https://iop883684.github.io/moviebox/term">Privacy</a><br><a href="https://iop883684.github.io/moviebox/privacy/">Term of service</a>
