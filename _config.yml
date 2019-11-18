@@ -35,16 +35,16 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : Quickly find theater around
-    description                           : Get diection for near theater around support add theater to plan
+  - title                                 : Map & Directions
+    description                           : Find Movie Theaters Near You
     fontawesome_icon_name                 : location-arrow
 
   - title                                 : Make plan
     description                           : Creat plan with specific detail, and easy to share with friend
     fontawesome_icon_name                 : calendar-check
 
-  - title                                 : Do quiz 
-    description                           : Test your knowledge or just to kill time with friend while waiting at theater
+  - title                                 : Discover Popular Movies 
+    description                           : Easy & All in one place
     fontawesome_icon_name                 : magic
 
   - title                                 : Using 3rd party TMDb service.
